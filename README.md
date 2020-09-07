@@ -1,0 +1,2 @@
+# gittest
+Git configuration testing
